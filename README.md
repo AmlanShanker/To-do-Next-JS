@@ -1,5 +1,4 @@
 # To-do-Next-JS
-# To-Do Next.js App
 
 This project is a simple To-Do list application built with **Next.js**, **MongoDB**, and **Tailwind CSS**. 
 It allows users to manage their tasks by adding, editing, and deleting them. 
